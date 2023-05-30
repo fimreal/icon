@@ -1,11 +1,0 @@
---2023-05-29 10:11:32--  https://avatars.githubusercontent.com/u/33850973?s=200
-Resolving avatars.githubusercontent.com (avatars.githubusercontent.com)... 2606:50c0:8001::154, 2606:50c0:8003::154, 2606:50c0:8002::154, ...
-Connecting to avatars.githubusercontent.com (avatars.githubusercontent.com)|2606:50c0:8001::154|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 8621 (8.4K) [image/png]
-Saving to: ‘33850973?s=200’
-
-33850973?s=200                            0%[                                                                                ]       0  --.-KB/s               33850973?s=200                          100%[===============================================================================>]   8.42K  --.-KB/s    in 0.002s  
-
-2023-05-29 10:11:33 (4.82 MB/s) - ‘33850973?s=200’ saved [8621/8621]
-
